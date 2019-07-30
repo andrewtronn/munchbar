@@ -1,0 +1,220 @@
+/* NAVBAR CSS */
+.navbar-font {
+   
+    font-family: 'Lobster';
+    color: white;
+}
+.nav-item {
+    color: white;
+    padding: 20px;
+ 
+}
+.nav-bg {
+    background-color: rgb(1, 5, 17)! important;
+    display:flex;
+    justify-content: flex-end;
+}
+.navbar-properties{
+    display: flex;
+    margin-left: auto;
+    width:50%
+}
+
+.navbar-properties h4{
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    padding: 10px;
+}
+
+
+
+.navpad {
+    width:50%;
+    padding-top: 15px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+  }
+/* SEARCH CSS */
+  .searchPic {
+    background: url('https://santabarbaraca.com/content/uploads/2015/08/restaurants-santa-barbara.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+
+select{
+    width: 170px;
+    padding: 2px;
+    border: soli;
+    height: 50px;
+    -webkit-appearance: menulist-button;
+
+    }
+
+
+
+/* HOME CSS */
+.homePic {
+    background: url('http://www.trainharder.com/wp-content/uploads/2017/03/foodpic.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.quoteBox {
+    background: black;
+    opacity: .90;
+    padding: 15px;
+    border-radius: 30px;
+}
+
+.quoteText {
+    font-family: 'Yellowtail'
+}
+
+/* FAVORITES CSS */
+.favoritesPic {
+    background: url('https://c.pxhere.com/photos/c1/9c/coffee_croissant_latte_morning_food_background_drink_close_up-1401277.jpg!d') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    color: white;
+}
+
+
+/* REGISTER CSS */
+.registerPIC {
+    background: url('https://www.thespruceeats.com/thmb/Ak67WHs1t-lxgI0k_FyRONIviso=/3264x2019/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-686769861-59fa95904e4f7d001af7d0d7.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+
+  .register-box {
+    background: black;
+    opacity: .85;
+    padding: 30px;
+    border-radius: 30px;
+    display:flex;
+    flex-direction: column;
+  }
+
+  .register-element {
+    margin: 20px 30px 30px 0px;
+    border-radius: 10px;
+  }
+
+/* LOGIN SCREEN CSS */
+.loginPIC {
+    background: url('https://www.thespruceeats.com/thmb/Ak67WHs1t-lxgI0k_FyRONIviso=/3264x2019/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-686769861-59fa95904e4f7d001af7d0d7.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+  }
+
+  .login-box {
+    background: black;
+    opacity: .85;
+    padding: 30px;
+    border-radius: 30px;
+    display:flex;
+    flex-direction: column;
+  }
+  .login-element {
+    margin: 20px 30px 30px 0px;
+    border-radius: 10px;
+  }
+
+  .login-font {
+   
+    font-family: 'Lobster';
+    color: white;
+}
+
+/* .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  } */
+
+
+
+
+
+/* .Register {
+    height: 100vh
+} */
+
+
+
+
+
+
+
+.picRad {
+    border-radius: 30px;
+}
+
+.searchpic {
+
+    border-radius: 30px;
+    height: 60%;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+}
+
+.appRegister {
+  background: url('https://www.thespruceeats.com/thmb/Ak67WHs1t-lxgI0k_FyRONIviso=/3264x2019/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-686769861-59fa95904e4f7d001af7d0d7.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+
+  
+
+
+
+
+
