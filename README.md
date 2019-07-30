@@ -1,6 +1,6 @@
 ## Munch Bar
 
-### Group project for our team to create a front-end website that used React.js, Redux.js, routing, and a specific API (Zomato) to provide search capabilities for restaurants by criteria such as location, cuisine, etc. 
+### Create a front-end website that used React.js, Redux.js, routing, and a specific API (Zomato) to provide search capabilities for restaurants by criteria such as location, cuisine, etc. 
 
 ![home_page](https://github.com/zbokhari/Munch-Bar/blob/master/HOME%20PAGE.PNG)
 ![search page](https://github.com/zbokhari/Munch-Bar/blob/master/SEARCH%20PAGE.PNG)
